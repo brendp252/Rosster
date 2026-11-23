@@ -1,0 +1,22 @@
+.home-page {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.home-page__header {
+    background-color: rgb(1, 1, 75);
+}
+
+.home-page__header h1 {
+    color: #fff;
+}
+
+.home-page__section {
+    margin-top: 1rem;
+}
+
+.home-page__img {
+    width: 600px;
+    margin: 3rem auto;
+    object-fit: cover;
+}

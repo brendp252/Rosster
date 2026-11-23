@@ -1,0 +1,23 @@
+.policies-page {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.policies-page__header {
+    background-color: rgb(1, 1, 75);
+}
+
+.policies-page__header h1 {
+    color: #fff;
+}
+
+.policies-page__section {
+    margin-top: 1rem;
+    padding: 0 1rem;
+    text-align: left;
+}
+
+.policies-page__section h2 {
+    border-bottom: 1px solid goldenrod;
+    padding: 0.25em 0;
+}

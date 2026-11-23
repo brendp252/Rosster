@@ -1,0 +1,16 @@
+.navigation {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 1rem;
+    padding: 1rem;
+}
+
+.navigation__link {
+    color: #000;
+    text-decoration: none;
+}
+
+.navigation__link:hover {
+    color: hsla(0, 0%, 0%, 0.5);
+}

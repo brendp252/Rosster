@@ -1,0 +1,12 @@
+.clubs-page {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.clubs-page__header {
+    background-color: rgb(1, 1, 75);
+}
+
+.clubs-page__header h1 {
+    color: #fff;
+}

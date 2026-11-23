@@ -1,0 +1,22 @@
+.club-card {
+    border-bottom: 1px solid goldenrod;
+    color: #000;
+    display: flex;
+    padding: 1.5rem;
+}
+
+.club-card__link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.club-card__logo {
+    display: block;
+    height: 150px;
+    margin: auto;
+    width: 150px;
+}
+
+.club-card__info {
+    margin: 1rem 1rem 1rem 1.5rem;
+}

@@ -1,0 +1,16 @@
+.contact-page {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.contact-page__header {
+    background-color: rgb(1, 1, 75);
+}
+
+.contact-page__header h1 {
+    color: #fff;
+}
+
+.contact-page__section {
+    margin-top: 1rem;
+}
